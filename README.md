@@ -1,23 +1,25 @@
-# 关于本项目
+Language : English | [中文](./README.zh-CN.md)
 
-本项目是在 [30-seconds-of-react](https://github.com/30-seconds/30-seconds-of-react) 的基础上，将组件改用 TypeScript 重写。
+# About
+
+This project is based on [30-seconds-of-react](https://github.com/30-seconds/30-seconds-of-react) and all snippets are written in TypeScript.
 
 <br />
 
-# 可用的脚本命令
+# Avaliable Scripts
 
 ### `npm run storybook`
 
-运行 Storybook，可用浏览器打开[http://localhost:6006](http://localhost:6006)，便捷查看组件效果。
+Run Storybook and open [http://localhost:6006](http://localhost:6006) with your browser to view the snippets conveniently.
 
 ### `npm start`
 
-在本地开发模式下运行应用程序，可用浏览器打开[http://localhost:3000](http://localhost:3000)，目前应用程序仍是 React 应用初始模板页面，可用于本地调试。
+Running the application in local development mode, you can open [http://localhost:3000](http://localhost:3000) with your browser. The application is still the React application template.
 
 <br />
 
 # Credits
 
-- 源代码署名归[30 seconds of code organization on GitHub](https://github.com/30-seconds)所有
+- Source code attribution goes to [30 seconds of code organization on GitHub](https://github.com/30-seconds).
 
-- 开源协议为 CC-BY-4.0 License
+- All snippets are licensed under the CC-BY-4.0 License, unless explicitly stated otherwise.
