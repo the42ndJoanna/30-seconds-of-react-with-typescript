@@ -3,7 +3,7 @@ import { Accordion } from "../snippets/advanced/Accordion/Accordion";
 import { AccordionItem } from "../snippets/advanced/Accordion/AccordionItem";
 
 export default {
-  title: "Accordion",
+  title: "Advanced/Accordion",
   component: Accordion,
   subcomponents: { AccordionItem },
 } as ComponentMeta<typeof Accordion>;
