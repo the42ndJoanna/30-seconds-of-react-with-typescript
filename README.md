@@ -22,4 +22,4 @@ Running the application in local development mode, you can open [http://localhos
 
 - Source code attribution goes to [30 seconds of code organization on GitHub](https://github.com/30-seconds).
 
-- All snippets are licensed under the CC-BY-4.0 License, unless explicitly stated otherwise.
+- All snippets are licensed under the [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/deed.zh), unless explicitly stated otherwise.

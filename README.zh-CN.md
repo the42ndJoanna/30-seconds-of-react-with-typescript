@@ -22,4 +22,4 @@ Language : [English](./README.md) | 中文
 
 - 源代码署名归[30 seconds of code organization on GitHub](https://github.com/30-seconds)所有
 
-- 开源协议为 CC-BY-4.0 License
+- 开源协议为 [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/deed.zh)
